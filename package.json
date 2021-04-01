@@ -1,5 +1,5 @@
 {
-  "name": "native-no-quickedit-module",
+  "name": "noquickedit",
   "version": "1.0.0",
   "description": "Disables quick edit mode on windows terminal applications",
   "main": "index.js",
