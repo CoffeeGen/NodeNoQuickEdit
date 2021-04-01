@@ -1,6 +1,6 @@
 {
   "name": "noquickedit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Disables quick edit mode on windows terminal applications",
   "main": "index.js",
   "scripts": {
