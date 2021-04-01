@@ -13,3 +13,10 @@ nqe.disableQuickEdit( );
 
 //...
 ```
+
+Or via typescript
+```
+import { disableQuickEdit } from 'noquickedit';
+disableQuickEdit( );
+//...
+```
